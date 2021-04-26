@@ -1,3 +1,7 @@
+### Quick intro
+I used some Icons I found on @material-ui, therefore please `npm install` packages for `@material-ui/core` and `@material-ui/icons`
+After that you can proceed to the application start.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
